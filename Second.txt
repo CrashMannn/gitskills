@@ -1,4 +1,4 @@
 this is the second file.
 
-branch test.
+branch test. bug fixed.
 
